@@ -3,7 +3,7 @@
 <br>
 <h2>Meu primeiro projeto que aprendi no <a href="https://rodolfomori.com.br/devclub/">Dev Club</a><h2>
 <br>
-Tecnologias utlizadas
+  <p>Tecnologias utlizadas</p>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="70px">
 <br>
