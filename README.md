@@ -6,4 +6,4 @@
 <br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="70px">
 <br>
-<img src="https://github.com/thalesneumann/easy-shopping/blob/master/mockup-shopping.png?raw=true">
+<a href="https://thalesneumann.github.io/easy-shopping/"><img src="https://github.com/thalesneumann/easy-shopping/blob/master/mockup-shopping.png?raw=true"></a>
